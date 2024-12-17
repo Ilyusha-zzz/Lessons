@@ -22,4 +22,6 @@ func n_Goroutine() {
 
 	wg.Wait()
 	fmt.Printf("maxVar: %v\n", maxVar)
+
+	// commit
 }
